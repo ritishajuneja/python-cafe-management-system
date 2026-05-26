@@ -33,7 +33,7 @@ The project was initially built using basic Python concepts and later upgraded w
 
 ## Project Files
 
-- `menu.py` → Initial version of the cafe system
+- `ShopMenu.py` → Initial version of the cafe system
 - `updated_menu.py` → Improved version with loops, GST, and receipt generation
 
 ---
